@@ -334,8 +334,8 @@ If you found this repository helpful:
 
 **Connect with me:**
 
-- Medium: [@your-medium-handle](https://medium.com/@anas-issath)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/mohamed-issath-424b85168/)
+- Medium: [@anas-issath](https://medium.com/@anas-issath)
+- LinkedIn: [Mohamed Issath](https://www.linkedin.com/in/mohamed-issath-424b85168/)
 
 ---
 
