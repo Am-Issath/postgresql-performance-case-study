@@ -268,7 +268,7 @@ SELECT user_id,COUNT(*) total_orders,SUM(amount) total_amount FROM orders WHERE 
 ### 1. Fork the repository
 
 ```bash
-git clone https://github.com/your-username/postgres-performance-case-study.git
+git clone https://github.com/Am-Issath/postgresql-performance-case-study.git
 cd postgres-performance-case-study
 ```
 
@@ -387,7 +387,6 @@ Not sure about something? Have questions before contributing?
 
 - **Open a Discussion:** For general questions or ideas
 - **Open an Issue:** For specific bugs or feature requests
-- **Contact:** [your-email@example.com] for sensitive matters
 
 ---
 
@@ -404,12 +403,6 @@ Significant contributions may result in:
 - Co-author recognition
 - Maintainer status invitation
 - Featured in blog posts or articles
-
----
-
-## License
-
-By contributing to this repository, you agree that your contributions will be licensed under the MIT License. See [LICENSE](LICENSE) file for details.
 
 ---
 
