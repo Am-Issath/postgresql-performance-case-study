@@ -72,6 +72,7 @@ ALTER TABLE user_sessions SET (
 ```
 📦 postgres-performance-case-study
 ├── 📄 README.md                    # This file
+├── 📄 CONTRIBUTING.md
 ├── 📂 diagnostic-queries/          # SQL for problem identification
 │   ├── 01-enable-pg-stat-statements.sql
 │   ├── 02-slowest-queries.sql
